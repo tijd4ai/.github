@@ -1,4 +1,4 @@
-# 🚀 tijd4ai: Learn. Build. Scale.
+<!-- # 🚀 tijd4ai: Learn. Build. Scale.
 
 Welcome to **tijd4ai** – your ultimate destination for mastering modern cloud infrastructure and intelligent systems.
 
@@ -200,7 +200,7 @@ We combine real-world AWS engineering experience with clear educational content 
 We’re building a strong open-source foundation. Contributions, ideas, and feedback are welcome!  
 👉 See [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
----
+--- -->
 
 <p align="center">
   Made with ❤️ by the tijd4ai team
@@ -259,7 +259,7 @@ Battle-tested guides and modules for:
 - GuardDuty, WAF, SecurityHub, IAM Access Analyzer
 - Network segmentation & SCPs
 
-### 🤖 LLMs & LLM Ops *(Coming Soon)*
+### 🤖 LLMs & LLM Ops
 End-to-end AI application and operations:
 - 🧠 RAG pipelines with LangChain + FastAPI
 - 📊 Monitoring, evaluation, and observability for LLMs
@@ -280,7 +280,7 @@ End-to-end AI application and operations:
 
 ---
 
-## 🧰 Tech Stack & Tools
+<!-- ## 🧰 Tech Stack & Tools
 
 | 💡 Category        | 🔧 Tools & Tech |
 |--------------------|-----------------|
@@ -288,7 +288,49 @@ End-to-end AI application and operations:
 | **IaC**            | `AWS CDK` `Terraform` `Projen` |
 | **CI/CD**          | `GitHub Actions` `Docker` `CodePipeline` `CodeBuild` |
 | **Security**       | `IAM Analyzer` `WAF` `GuardDuty` `SecurityHub` |
-| **LLM Ecosystem**  | `LangChain` `FastAPI` `OpenAI API` `Weaviate` `LangSmith` `MLflow` |
+| **LLM Ecosystem**  | `LangChain` `FastAPI` `OpenAI API` `Weaviate` `LangSmith` `MLflow` | -->
+
+
+## 🧰 Tools & Technologies Covered
+
+### ☁️ Cloud & AWS Services
+- 🖥️ EC2
+- 📦 S3
+- 👤 IAM
+- 🧮 Lambda
+- 🌐 VPC
+- 📈 CloudWatch
+- 🔁 Step Functions
+- 🔒 Secrets Manager
+- 🌍 ALB / CloudFront
+
+### 🛠️ Infrastructure as Code
+- 🟨 AWS CDK (TypeScript)
+- 🟦 AWS CDK (Python)
+- 🟪 Terraform
+- 🧩 Projen
+
+### ⚙️ DevOps & CI/CD
+- 🤖 GitHub Actions
+- 🐳 Docker
+- 🏗️ CodePipeline
+- 🔧 CodeBuild
+
+### 🔐 Security Stack
+- 🛡️ AWS WAF
+- 🕵️ GuardDuty
+- 🔍 Inspector
+- 🔐 SecurityHub
+- 🧾 IAM Access Analyzer
+
+### 🤖 LLM & MLOps Tools
+- 🔗 LangChain
+- 📚 Weaviate / Vector DBs
+- 💬 OpenAI API
+- ⚡ FastAPI
+- 📦 MLflow
+- 🧠 LangSmith
+
 
 > 📌 Each tool comes with real implementation examples and best practices.
 
